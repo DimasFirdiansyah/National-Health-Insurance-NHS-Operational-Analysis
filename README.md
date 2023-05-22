@@ -25,17 +25,17 @@ Furthermore, an analysis of the total number of records per month indicates that
 ## Assignment 4
 
 the result given from number of appointment relation with service setting, context type, and national category are :
-•	Service setting Appointments made for the general practice service setting dominate the majority, surpassing other categories such as primary care network, extended access provision, and others.
-•	Context type the number of appointments under the 'Care Related Encounter' context type over time, with only minor fluctuations observed. This indicates a consistent and steady demand for care-related services throughout the analyzed timeframe.
-•	National category depicting the 'General Consultation Routine' consistently has the highest number of appointments, emphasizing the importance of ongoing patient care. 'Planned Clinics,' 'Clinical Triage,' and 'Home Visit' also demonstrate consistent appointment numbers, highlighting the significance of pre-planned activities and comprehensive healthcare services.The 'Unplanned Clinical Activity' category exhibits fluctuations, indicating varying urgent medical needs. Effective management and response to unforeseen healthcare requirements are crucial in this category.
-![image](https://github.com/Dimsbo/Firdiansyah_DimasRizqy_DA201_Assignment/assets/124717290/38b40e50-d58d-4f94-8268-235c6b840964)
+- Service setting Appointments made for the general practice service setting dominate the majority, surpassing other categories such as primary care network, extended access provision, and others.
+-	Context type the number of appointments under the 'Care Related Encounter' context type over time, with only minor fluctuations observed. This indicates a consistent and steady demand for care-related services throughout the analyzed timeframe.
+- National category depicting the 'General Consultation Routine' consistently has the highest number of appointments, emphasizing the importance of ongoing patient care. 'Planned Clinics,' 'Clinical Triage,' and 'Home Visit' also demonstrate consistent appointment numbers, highlighting the significance of pre-planned activities and comprehensive healthcare services.The 'Unplanned Clinical Activity' category exhibits fluctuations, indicating varying urgent medical needs. Effective management and response to unforeseen healthcare requirements are crucial in this category.
+
 
 ## Assignment 5
 
 In the analysis of the Twitter data, the focus was placed on identifying the top trending hashtags based on the frequency of their usage. By examining the count of hashtags in the dataset, valuable insights were gained into the most popular topics and themes within the given timeframe.
 Based on the bar chart, it was observed that the hashtag "#healthcare" was found to have the most significant level of engagement and interest on this social media platform.
 Furthermore, it was noted that several other hashtags with counts exceeding 20 also made their presence known within the dataset, suggesting their relevance to the ongoing discussions and topics.
-![image](https://github.com/Dimsbo/Firdiansyah_DimasRizqy_DA201_Assignment/assets/124717290/a1dada2a-1a71-4335-926f-5bbff4108d3b)
+
 
 ## Assignment 6
 ### Should the NHS start looking at increasing staff levels?
@@ -61,4 +61,4 @@ In summary, the line chart offers valuable insights into how appointments are di
 ### How do the spread of service settings compare?
 The presented charts demonstrate that General Practice is the dominant service setting, surpassing other service settings such as Extended Access Provision, Other, and Primary Care Network in terms of appointment count. The Primary Care Network emerges as the second-highest service setting, with an average of approximately 590,000 appointments scheduled.
 In contrast, the 'Other' category represents service settings facilitated by various providers, accounting for around 500,000 appointments. The charts indicate that the service setting with the lowest appointment count is Extended Access Provision.
-![image](https://github.com/Dimsbo/Firdiansyah_DimasRizqy_DA201_Assignment/assets/124717290/dfeb28ad-0dbd-4452-9dc0-99384df15c92)
+
