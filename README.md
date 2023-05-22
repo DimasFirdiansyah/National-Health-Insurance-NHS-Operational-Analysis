@@ -8,12 +8,12 @@ This repository include :
 # Summary 
 ## Assignment 2
 The provided data gives insights into various aspects of the healthcare system within the National Health Services (NHS) in England. Here is a summary of the information:
-•	Number of locations: The dataset comprises 106 unique locations within the NHS system.
-•	Top 5 locations: The highest recorded locations are NHS North West London ICB W2U3Z, NHS Kent and Medway ICB 91Q, NHS Devon ICB 15N, NHS Hampshire and Isle Of Wight ICB D9Y0V, and NHS North East London ICB A3A8R. These locations have the highest appointment counts.
-•	Number of service settings: The data includes five service settings. The most prevalent settings are General Practice, Primary Care Network, Other, Extended Access Provision, and Unmapped.
-•	Number of context types: There are three context types represented in the data: Care Related Encounter, Inconsistent Mapping, and Unmapped.
-•	Number of national categories: The dataset encompasses various national categories, including Inconsistent Mapping, General Consultation Routine, General Consultation Acute, Planned Clinics, and more. These categories provide further classification for appointments.
-•	Number of appointment statuses: The appointment statuses are Attended, Unknown, and DNA (Did Not Attend). The count reveals that the most frequent statuses are Attended, followed by Unknown and DNA.
+- Number of locations: The dataset comprises 106 unique locations within the NHS system.
+- Top 5 locations: The highest recorded locations are NHS North West London ICB W2U3Z, NHS Kent and Medway ICB 91Q, NHS Devon ICB 15N, NHS Hampshire and Isle Of Wight ICB D9Y0V, and NHS North East London ICB A3A8R. These locations have the highest appointment counts.
+- Number of service settings: The data includes five service settings. The most prevalent settings are General Practice, Primary Care Network, Other, Extended Access Provision, and Unmapped.
+- Number of context types: There are three context types represented in the data: Care Related Encounter, Inconsistent Mapping, and Unmapped.
+- Number of national categories: The dataset encompasses various national categories, including Inconsistent Mapping, General Consultation Routine, General Consultation Acute, Planned Clinics, and more. These categories provide further classification for appointments.
+- Number of appointment statuses: The appointment statuses are Attended, Unknown, and DNA (Did Not Attend). The count reveals that the most frequent statuses are Attended, followed by Unknown and DNA.
 Overall, this data provides valuable insights into the distribution of appointments across different locations, service settings, context types, national categories, and appointment statuses within the NHS system.
 
 ## Assignment 3
