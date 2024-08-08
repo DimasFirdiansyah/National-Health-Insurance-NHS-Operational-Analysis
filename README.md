@@ -1,12 +1,9 @@
-# Firdiansyah_DimasRizqy_DA201_Assignment
-This repository is for final Assignment of course 2 : Diagnostic Analysis using python
-This repository include :
-- Jupyter notebook files
-- PDF Report 
-- Video of presentation in MP4 format
+# National Health Insurance Operational Analysis and Recomendation
+
+
 
 # Summary 
-## Assignment 2
+
 The provided data gives insights into various aspects of the healthcare system within the National Health Services (NHS) in England. Here is a summary of the information:
 - Number of locations: The dataset comprises 106 unique locations within the NHS system.
 - Top 5 locations: The highest recorded locations are NHS North West London ICB W2U3Z, NHS Kent and Medway ICB 91Q, NHS Devon ICB 15N, NHS Hampshire and Isle Of Wight ICB D9Y0V, and NHS North East London ICB A3A8R. These locations have the highest appointment counts.
@@ -16,13 +13,13 @@ The provided data gives insights into various aspects of the healthcare system w
 - Number of appointment statuses: The appointment statuses are Attended, Unknown, and DNA (Did Not Attend). The count reveals that the most frequent statuses are Attended, followed by Unknown and DNA.
 Overall, this data provides valuable insights into the distribution of appointments across different locations, service settings, context types, national categories, and appointment statuses within the NHS system.
 
-## Assignment 3
+
 In this section, the focus is placed on uncovering valuable insights from the dataset concerning missed, unattended, and records of appointments in the National Health Services (NHS). It is observed that appointments were scheduled within the timeframe of December 1, 2021, and June 30, 2022.
 When examining the service settings in North West London for the first semester of 2022, it is discovered that the General Practice setting recorded the highest number of appointments, totaling 2104. This is followed by 'Other', 'Primary Care Network', 'Extended Access Provision', and 'Unmapped', which reported 1318, 1272, 1090, and 152 appointments, respectively.
 The monthly appointment figures reveal interesting trends, with November 2021 witnessing the highest number of appointments, amounting to 30,405,070. October 2021, March 2022, September 2021, and May 2022 also showed significant appointment volumes, with approximately 30 million, 29.5 million, 28.5 million, and 27.4 million appointments, respectively.
 Furthermore, an analysis of the total number of records per month indicates that November 2021 once again exhibited the highest number of appointments, with a total of 30,405,070 appointments. This comprehensive analysis establishes a foundation for drawing actionable insights to enhance appointment management in the NHS.
 
-## Assignment 4
+
 
 the result given from number of appointment relation with service setting, context type, and national category are :
 - Service setting Appointments made for the general practice service setting dominate the majority, surpassing other categories such as primary care network, extended access provision, and others.
@@ -30,14 +27,14 @@ the result given from number of appointment relation with service setting, conte
 - National category depicting the 'General Consultation Routine' consistently has the highest number of appointments, emphasizing the importance of ongoing patient care. 'Planned Clinics,' 'Clinical Triage,' and 'Home Visit' also demonstrate consistent appointment numbers, highlighting the significance of pre-planned activities and comprehensive healthcare services.The 'Unplanned Clinical Activity' category exhibits fluctuations, indicating varying urgent medical needs. Effective management and response to unforeseen healthcare requirements are crucial in this category.
 
 
-## Assignment 5
+
 
 In the analysis of the Twitter data, the focus was placed on identifying the top trending hashtags based on the frequency of their usage. By examining the count of hashtags in the dataset, valuable insights were gained into the most popular topics and themes within the given timeframe.
 Based on the bar chart, it was observed that the hashtag "#healthcare" was found to have the most significant level of engagement and interest on this social media platform.
 Furthermore, it was noted that several other hashtags with counts exceeding 20 also made their presence known within the dataset, suggesting their relevance to the ongoing discussions and topics.
 
 
-## Assignment 6
+
 ### Should the NHS start looking at increasing staff levels?
 considering the maximum daily appointment capacity of 1,200,000 set by the NHS can provide additional context for analyzing the utilisation trend. By comparing the utilisation trend with the maximum daily appointment capacity, we can assess whether the NHS is operating below, at, or above its maximum capacity.
 From the provided utilisation data, we can observe that the utilisation values are consistently below the maximum daily appointment capacity of 1,200,000. This suggests that the NHS has not reached its maximum capacity during this observed period.
